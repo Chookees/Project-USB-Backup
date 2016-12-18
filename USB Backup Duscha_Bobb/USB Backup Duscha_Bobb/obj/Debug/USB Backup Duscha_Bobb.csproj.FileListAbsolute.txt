@@ -1,0 +1,117 @@
+c:\users\artur\documents\visual studio 2015\Projects\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe.config
+c:\users\artur\documents\visual studio 2015\Projects\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe
+c:\users\artur\documents\visual studio 2015\Projects\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.pdb
+c:\users\artur\documents\visual studio 2015\Projects\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csprojResolveAssemblyReference.cache
+c:\users\artur\documents\visual studio 2015\Projects\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Form1.resources
+c:\users\artur\documents\visual studio 2015\Projects\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Properties.Resources.resources
+c:\users\artur\documents\visual studio 2015\Projects\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csproj.GenerateResource.Cache
+c:\users\artur\documents\visual studio 2015\Projects\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.exe
+c:\users\artur\documents\visual studio 2015\Projects\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.pdb
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe.config
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.exe
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.pdb
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csprojResolveAssemblyReference.cache
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Form1.resources
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Properties.Resources.resources
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csproj.GenerateResource.Cache
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.pdb
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\mscorlib.dll
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\de\mscorlib.resources.dll
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\normidna.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\normnfc.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\normnfd.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\normnfkc.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\normnfkd.nlp
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe.config
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.exe
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.pdb
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.pdb
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\mscorlib.dll
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\de\mscorlib.resources.dll
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\normidna.nlp
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\normnfc.nlp
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\normnfd.nlp
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\normnfkc.nlp
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\bin\Debug\normnfkd.nlp
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csprojResolveAssemblyReference.cache
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Form1.resources
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Properties.Resources.resources
+C:\Users\d013\Desktop\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csproj.GenerateResource.Cache
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe.config
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.exe
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.pdb
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.pdb
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\mscorlib.dll
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\de\mscorlib.resources.dll
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normidna.nlp
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfc.nlp
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfd.nlp
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfkc.nlp
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfkd.nlp
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csprojResolveAssemblyReference.cache
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Form1.resources
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Properties.Resources.resources
+C:\Users\d013\Downloads\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csproj.GenerateResource.Cache
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe.config
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.exe
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.pdb
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.pdb
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\mscorlib.dll
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\de\mscorlib.resources.dll
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normidna.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfc.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfd.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfkc.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfkd.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csprojResolveAssemblyReference.cache
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Form1.resources
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Properties.Resources.resources
+G:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csproj.GenerateResource.Cache
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe.config
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.exe
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.pdb
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.pdb
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csprojResolveAssemblyReference.cache
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Form1.resources
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Properties.Resources.resources
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csproj.GenerateResource.Cache
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\mscorlib.dll
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\de\mscorlib.resources.dll
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normidna.nlp
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfc.nlp
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfd.nlp
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfkc.nlp
+H:\BxT2\Projekt\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfkd.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe.config
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.exe
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.pdb
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.pdb
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\mscorlib.dll
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\de\mscorlib.resources.dll
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normidna.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfc.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfd.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfkc.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\normnfkd.nlp
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csprojResolveAssemblyReference.cache
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Form1.resources
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Properties.Resources.resources
+G:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csproj.GenerateResource.Cache
+H:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe.config
+H:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.exe
+H:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.pdb
+J:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe.config
+J:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.exe
+J:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.pdb
+J:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.exe
+J:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\bin\Debug\USB Backup Duscha_Bobb.pdb
+J:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csprojResolveAssemblyReference.cache
+J:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Form1.resources
+J:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB_Backup_Duscha_Bobb.Properties.Resources.resources
+J:\BxT2\Projekt\USB Backup Duscha_Bobb\USB Backup Duscha_Bobb 09.11.16\USB Backup Duscha_Bobb\obj\Debug\USB Backup Duscha_Bobb.csproj.GenerateResource.Cache
