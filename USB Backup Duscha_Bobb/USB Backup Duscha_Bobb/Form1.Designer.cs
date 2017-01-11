@@ -68,14 +68,13 @@
             this.checkBoxArchivieren = new System.Windows.Forms.CheckBox();
             this.buttonArchivieren = new System.Windows.Forms.Button();
             this.checkBoxarchivierenohneup = new System.Windows.Forms.CheckBox();
-            this.checkBoxaktuell = new System.Windows.Forms.CheckBox();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // labelquelle
             // 
             this.labelquelle.AutoSize = true;
-            this.labelquelle.Location = new System.Drawing.Point(5, 40);
+            this.labelquelle.Location = new System.Drawing.Point(5, 58);
             this.labelquelle.Name = "labelquelle";
             this.labelquelle.Size = new System.Drawing.Size(87, 13);
             this.labelquelle.TabIndex = 0;
@@ -84,7 +83,7 @@
             // labelZiel
             // 
             this.labelZiel.AutoSize = true;
-            this.labelZiel.Location = new System.Drawing.Point(12, 66);
+            this.labelZiel.Location = new System.Drawing.Point(5, 89);
             this.labelZiel.Name = "labelZiel";
             this.labelZiel.Size = new System.Drawing.Size(80, 13);
             this.labelZiel.TabIndex = 1;
@@ -92,21 +91,21 @@
             // 
             // textBoxQuelle
             // 
-            this.textBoxQuelle.Location = new System.Drawing.Point(106, 37);
+            this.textBoxQuelle.Location = new System.Drawing.Point(106, 55);
             this.textBoxQuelle.Name = "textBoxQuelle";
             this.textBoxQuelle.Size = new System.Drawing.Size(244, 20);
             this.textBoxQuelle.TabIndex = 2;
             // 
             // textBoxziel
             // 
-            this.textBoxziel.Location = new System.Drawing.Point(106, 63);
+            this.textBoxziel.Location = new System.Drawing.Point(106, 86);
             this.textBoxziel.Name = "textBoxziel";
             this.textBoxziel.Size = new System.Drawing.Size(244, 20);
             this.textBoxziel.TabIndex = 3;
             // 
             // Buttonquelle
             // 
-            this.Buttonquelle.Location = new System.Drawing.Point(366, 35);
+            this.Buttonquelle.Location = new System.Drawing.Point(366, 55);
             this.Buttonquelle.Name = "Buttonquelle";
             this.Buttonquelle.Size = new System.Drawing.Size(31, 23);
             this.Buttonquelle.TabIndex = 4;
@@ -116,7 +115,7 @@
             // 
             // buttonZiel
             // 
-            this.buttonZiel.Location = new System.Drawing.Point(366, 61);
+            this.buttonZiel.Location = new System.Drawing.Point(366, 84);
             this.buttonZiel.Name = "buttonZiel";
             this.buttonZiel.Size = new System.Drawing.Size(31, 23);
             this.buttonZiel.TabIndex = 5;
@@ -128,7 +127,7 @@
             // 
             this.labeloptionen.AutoSize = true;
             this.labeloptionen.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labeloptionen.Location = new System.Drawing.Point(13, 115);
+            this.labeloptionen.Location = new System.Drawing.Point(23, 147);
             this.labeloptionen.Name = "labeloptionen";
             this.labeloptionen.Size = new System.Drawing.Size(62, 13);
             this.labeloptionen.TabIndex = 13;
@@ -237,6 +236,8 @@
             // 
             // deustchToolStripMenuItem
             // 
+            this.deustchToolStripMenuItem.Checked = true;
+            this.deustchToolStripMenuItem.CheckState = System.Windows.Forms.CheckState.Checked;
             this.deustchToolStripMenuItem.Name = "deustchToolStripMenuItem";
             this.deustchToolStripMenuItem.Size = new System.Drawing.Size(137, 22);
             this.deustchToolStripMenuItem.Text = "Deustch";
@@ -306,7 +307,7 @@
             // fAQToolStripMenuItem
             // 
             this.fAQToolStripMenuItem.Name = "fAQToolStripMenuItem";
-            this.fAQToolStripMenuItem.Size = new System.Drawing.Size(97, 22);
+            this.fAQToolStripMenuItem.Size = new System.Drawing.Size(96, 22);
             this.fAQToolStripMenuItem.Text = "FAQ";
             this.fAQToolStripMenuItem.Click += new System.EventHandler(this.fAQToolStripMenuItem_Click);
             // 
@@ -324,9 +325,9 @@
             this.labelAnzahl.AutoSize = true;
             this.labelAnzahl.Location = new System.Drawing.Point(167, 294);
             this.labelAnzahl.Name = "labelAnzahl";
-            this.labelAnzahl.Size = new System.Drawing.Size(63, 13);
+            this.labelAnzahl.Size = new System.Drawing.Size(62, 13);
             this.labelAnzahl.TabIndex = 25;
-            this.labelAnzahl.Text = "Noch Keine";
+            this.labelAnzahl.Text = "Noch keine";
             // 
             // webBrowser
             // 
@@ -340,11 +341,11 @@
             // checkBoxHochladen
             // 
             this.checkBoxHochladen.AutoSize = true;
-            this.checkBoxHochladen.Location = new System.Drawing.Point(232, 131);
+            this.checkBoxHochladen.Location = new System.Drawing.Point(244, 146);
             this.checkBoxHochladen.Name = "checkBoxHochladen";
-            this.checkBoxHochladen.Size = new System.Drawing.Size(118, 17);
+            this.checkBoxHochladen.Size = new System.Drawing.Size(116, 17);
             this.checkBoxHochladen.TabIndex = 27;
-            this.checkBoxHochladen.Text = "Backup Hochladen";
+            this.checkBoxHochladen.Text = "Backup hochladen";
             this.checkBoxHochladen.UseVisualStyleBackColor = true;
             // 
             // buttonupload
@@ -372,9 +373,9 @@
             this.checkBoxArchivieren.AutoSize = true;
             this.checkBoxArchivieren.Location = new System.Drawing.Point(19, 364);
             this.checkBoxArchivieren.Name = "checkBoxArchivieren";
-            this.checkBoxArchivieren.Size = new System.Drawing.Size(171, 17);
+            this.checkBoxArchivieren.Size = new System.Drawing.Size(168, 17);
             this.checkBoxArchivieren.TabIndex = 31;
-            this.checkBoxArchivieren.Text = "Backup Archivieren für Upload";
+            this.checkBoxArchivieren.Text = "Backup archivieren für upload";
             this.checkBoxArchivieren.UseVisualStyleBackColor = true;
             this.checkBoxArchivieren.Visible = false;
             // 
@@ -392,29 +393,18 @@
             // checkBoxarchivierenohneup
             // 
             this.checkBoxarchivierenohneup.AutoSize = true;
-            this.checkBoxarchivierenohneup.Location = new System.Drawing.Point(73, 131);
+            this.checkBoxarchivierenohneup.Location = new System.Drawing.Point(106, 146);
             this.checkBoxarchivierenohneup.Name = "checkBoxarchivierenohneup";
-            this.checkBoxarchivierenohneup.Size = new System.Drawing.Size(119, 17);
+            this.checkBoxarchivierenohneup.Size = new System.Drawing.Size(118, 17);
             this.checkBoxarchivierenohneup.TabIndex = 34;
-            this.checkBoxarchivierenohneup.Text = "Backup Archivieren";
+            this.checkBoxarchivierenohneup.Text = "Backup archivieren";
             this.checkBoxarchivierenohneup.UseVisualStyleBackColor = true;
-            // 
-            // checkBoxaktuell
-            // 
-            this.checkBoxaktuell.AutoSize = true;
-            this.checkBoxaktuell.Location = new System.Drawing.Point(73, 164);
-            this.checkBoxaktuell.Name = "checkBoxaktuell";
-            this.checkBoxaktuell.Size = new System.Drawing.Size(125, 17);
-            this.checkBoxaktuell.TabIndex = 35;
-            this.checkBoxaktuell.Text = "Dateien aktualisieren";
-            this.checkBoxaktuell.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(887, 497);
-            this.Controls.Add(this.checkBoxaktuell);
             this.Controls.Add(this.checkBoxarchivierenohneup);
             this.Controls.Add(this.buttonArchivieren);
             this.Controls.Add(this.checkBoxArchivieren);
@@ -493,7 +483,6 @@
         private System.Windows.Forms.ToolStripMenuItem kontaktToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem hilfeToolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem fAQToolStripMenuItem;
-        private System.Windows.Forms.CheckBox checkBoxaktuell;
     }
 }
 
